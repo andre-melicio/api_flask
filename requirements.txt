@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+Flask-JWT-Extended
+Flask-Limiter
+psycopg2-binary
+pandas
+PyPDF2
+marshmallow
+python-dotenv
